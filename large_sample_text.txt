@@ -1,0 +1,26 @@
+Sample Text File for Data Transfer Practice
+=============================================
+
+This file can be used to practice file upload, download, migration,
+copying, compression, and Azure storage operations.
+
+Section 1: Introduction
+Data transfer is the process of moving digital information from one
+location to another. It can be performed over a network or by using
+physical storage devices.
+
+Section 2: Network Transfer
+Network transfer depends mainly on bandwidth, latency, and network
+stability. A higher bandwidth generally allows more data to be moved
+in less time.
+
+Section 3: Physical Transfer
+Physical transfer can be useful for very large datasets. A device such
+as Azure Data Box can be used to copy data locally and ship the device
+to Azure.
+
+Section 4: Verification
+After transfer, the destination data should be checked to confirm that
+the expected files and contents were transferred correctly.
+
+End of sample file.

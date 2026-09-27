@@ -1,0 +1,15 @@
+Azure Data Transfer Notes
+=========================
+Data migration means moving data from one location or system to another.
+
+Network Transfer:
+- Uses the internet or dedicated network connection.
+- Speed depends on available bandwidth.
+- Suitable for smaller or moderate amounts of data.
+- No physical shipment is required.
+
+Azure Data Box:
+- A physical device used to transfer large amounts of data to Azure.
+- Useful when network transfer would take too long.
+- Data is copied to the device and the device is shipped to Azure.
+- Azure uploads the data into the selected storage service.
